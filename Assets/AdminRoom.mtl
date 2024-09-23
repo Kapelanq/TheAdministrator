@@ -1,0 +1,37 @@
+newmtl ProBuilderDefault
+map_Kd GridBox_Default.png
+Kd 1 1 1
+d 1
+
+newmtl GreenLight
+Kd 0.1164591 1 0
+d 1
+
+newmtl FuseBox
+Kd 0.7075471 0.7075471 0.7075471
+d 1
+
+newmtl VentCrate
+Kd 0.3396226 0.3396226 0.3396226
+d 1
+
+newmtl RedLight
+Kd 1 0 0
+d 1
+
+newmtl CorkBoard
+Kd 0.7169812 0.5862837 0.3754005
+d 1
+
+newmtl Paper
+Kd 0.8018868 0.8018868 0.8018868
+d 1
+
+newmtl Door
+Kd 0.5660378 0.237629 0.237629
+d 1
+
+newmtl Fuses
+Kd 0.9190577 0.9528301 0.4449537
+d 1
+
